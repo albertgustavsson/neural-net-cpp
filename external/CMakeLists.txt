@@ -1,1 +1,1 @@
-add_subdirectory(matrix-cpp)
+add_subdirectory(linjal)

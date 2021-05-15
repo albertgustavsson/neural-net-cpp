@@ -1,3 +1,3 @@
-[submodule "external/matrix-cpp"]
-	path = external/matrix-cpp
-	url = https://github.com/albertgustavsson/matrix-cpp.git
+[submodule "external/linjal"]
+	path = external/linjal
+	url = https://github.com/albertgustavsson/linjal.git
